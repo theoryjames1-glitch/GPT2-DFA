@@ -1,6 +1,3 @@
-Got it ⚡ — let’s lay down the **theory of GPT-2 with Differentiable Fuzzy Attention (GPT2-DFA)** in a way that looks like a conceptual framework / research contribution.
-
----
 
 # 🧠 Theory of GPT-2 with Differentiable Fuzzy Attention (GPT2-DFA)
 
